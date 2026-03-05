@@ -1,4 +1,9 @@
-MarketFlow: Sales Analysis Dashboard
+<div align="center">
+  <img width="520px" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/MarketFlow/MarketFlow.png" />
+</div>
+
+<h1 align="center">MarketFlow: Sales Analysis</h1>
+
 
 ## Project Overview
 This project analyzes historical sales data for **MarketFlow** an international e-commerce company using **Microsoft Excel**.  
@@ -16,6 +21,20 @@ The project covers the **full** analysis workflow:
 - **Total Orders:** ~60,000  
 - **Time Period:** 2020 – 2025  
 
+## Executive Summary
+
+This analysis provides a high-level overview of MarketFlow’s sales performance, customer behavior, and product category trends between 2020 and 2025. The goal of the analysis was to uncover the key drivers behind revenue growth, identify dominant customer segments, and highlight the product categories contributing most significantly to overall sales.
+
+The analysis shows that the **United States is the company’s primary market**, generating the highest order volumes and revenue across all customer segments. **Adults are the dominant purchasing demographic**, consistently leading in order volume and loyalty program utilization, followed by **Senior Citizens** and **Young Adults**.
+
+Product category analysis reveals that **Books, Toys, and Beauty products are the strongest revenue drivers**, collectively generating a significant share of total sales. In contrast, **Electronics shows comparatively low order volume**, suggesting potential underperformance or limited market demand.
+
+Customer loyalty analysis indicates that **Adults are the most active participants in the loyalty program across all discount tiers**, with **Senior Citizens showing strong secondary engagement**. Participation remains relatively consistent across discount levels, suggesting loyalty usage is influenced more by customer behavior than discount size.
+
+Overall, the business demonstrates **strong growth and revenue concentration in a few key markets and product categories**, presenting opportunities for **geographic expansion, category diversification, and targeted marketing toward high-performing customer segments**.
+<div align="center">
+<img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/MarketFlow/Revenue.png" />
+</div>
 
 ## 📊 Key Business Insights
 
@@ -29,6 +48,19 @@ The project covers the **full** analysis workflow:
   - **Germany**
   - **France**
 - Smaller markets such as **Poland, Sweden, and the UAE** show comparatively lower order activity.
+
+<table align="center">
+  <tr>
+    <table align="center">
+    <tr align="center">
+      <td width="1000">
+      <img height=270vh src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/MarketFlow/Order%20Country.png">
+    </td>
+    <td width="1000">
+      <img width="450" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/MarketFlow/Revenue%20country.png">
+    </td>
+  </tr>
+</table>
 
 💡 **Insight:** The company’s demand is heavily concentrated in a few core markets, particularly the **United States**.
 
@@ -59,6 +91,8 @@ Analysis of loyalty discount usage reveals consistent behavior across discount t
 - **Young Adults show moderate engagement**
 - **Adolescents show minimal participation**
 
+ <img width="600" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/MarketFlow/Loyalty.png">
+
 💡 **Insight:** Loyalty engagement appears **demographic-driven rather than discount-driven**, with Adults and Seniors consistently using the program regardless of discount level.
 
 ---
@@ -82,6 +116,8 @@ Mid-performing categories:
 Lowest performing category:
 
 - **Electronics (~3K orders)**
+
+ <img width="600" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/MarketFlow/Category.png">
 
 💡 **Insight:** Books and Toys together generate a **significant share of total company revenue**.
 
