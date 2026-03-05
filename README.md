@@ -36,6 +36,13 @@ Overall, the business demonstrates **strong growth and revenue concentration in 
 <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/MarketFlow/Revenue.png" />
 </div>
 
+
+<h1 align="center">Dashboard Overview</h1>
+
+<div align="center">
+<img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/MarketFlow/Dashboard1.png" />
+</div>
+
 ## 📊 Key Business Insights
 
 ### 🌎 Global Market Performance
